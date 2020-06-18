@@ -1,0 +1,62 @@
+F:\studia\Programowanie Obiektowe\Saper\Saper\bin\Debug\Saper.exe
+F:\studia\Programowanie Obiektowe\Saper\Saper\bin\Debug\Saper.pdb
+F:\studia\Programowanie Obiektowe\Saper\Saper\obj\Debug\Saper.csprojAssemblyReference.cache
+F:\studia\Programowanie Obiektowe\Saper\Saper\obj\Debug\MainWindow.g.cs
+F:\studia\Programowanie Obiektowe\Saper\Saper\obj\Debug\App.g.cs
+F:\studia\Programowanie Obiektowe\Saper\Saper\obj\Debug\Saper_MarkupCompile.cache
+F:\studia\Programowanie Obiektowe\Saper\Saper\obj\Debug\Saper_MarkupCompile.lref
+F:\studia\Programowanie Obiektowe\Saper\Saper\obj\Debug\MainWindow.baml
+F:\studia\Programowanie Obiektowe\Saper\Saper\obj\Debug\Saper.g.resources
+F:\studia\Programowanie Obiektowe\Saper\Saper\obj\Debug\Saper.Properties.Resources.resources
+F:\studia\Programowanie Obiektowe\Saper\Saper\obj\Debug\Saper.csproj.GenerateResource.cache
+F:\studia\Programowanie Obiektowe\Saper\Saper\obj\Debug\Saper.csproj.CoreCompileInputs.cache
+F:\studia\Programowanie Obiektowe\Saper\Saper\obj\Debug\Saper.exe
+F:\studia\Programowanie Obiektowe\Saper\Saper\obj\Debug\Saper.pdb
+F:\studia\Stare\Programowanie Obiektowe\Saper\Saper\bin\Debug\Saper.exe
+F:\studia\Stare\Programowanie Obiektowe\Saper\Saper\bin\Debug\Saper.pdb
+F:\studia\Stare\Programowanie Obiektowe\Saper\Saper\obj\Debug\Saper.csprojAssemblyReference.cache
+F:\studia\Stare\Programowanie Obiektowe\Saper\Saper\obj\Debug\MainWindow.g.cs
+F:\studia\Stare\Programowanie Obiektowe\Saper\Saper\obj\Debug\App.g.cs
+F:\studia\Stare\Programowanie Obiektowe\Saper\Saper\obj\Debug\Saper_MarkupCompile.cache
+F:\studia\Stare\Programowanie Obiektowe\Saper\Saper\obj\Debug\Saper_MarkupCompile.lref
+F:\studia\Stare\Programowanie Obiektowe\Saper\Saper\obj\Debug\MainWindow.baml
+F:\studia\Stare\Programowanie Obiektowe\Saper\Saper\obj\Debug\Saper.g.resources
+F:\studia\Stare\Programowanie Obiektowe\Saper\Saper\obj\Debug\Saper.Properties.Resources.resources
+F:\studia\Stare\Programowanie Obiektowe\Saper\Saper\obj\Debug\Saper.csproj.GenerateResource.cache
+F:\studia\Stare\Programowanie Obiektowe\Saper\Saper\obj\Debug\Saper.csproj.CoreCompileInputs.cache
+F:\studia\Stare\Programowanie Obiektowe\Saper\Saper\obj\Debug\Saper.exe
+F:\studia\Stare\Programowanie Obiektowe\Saper\Saper\obj\Debug\Saper.pdb
+D:\cpp\Saper\Saper\obj\Debug\Saper.csprojAssemblyReference.cache
+D:\cpp\Saper\Saper\obj\Debug\MainWindow.g.cs
+D:\cpp\Saper\Saper\obj\Debug\App.g.cs
+D:\cpp\Saper\Saper\obj\Debug\Saper_MarkupCompile.cache
+D:\cpp\Saper\Saper\obj\Debug\Saper_MarkupCompile.lref
+D:\cpp\Saper\Saper\obj\Debug\Saper.exe
+D:\cpp\Saper\Saper\obj\Debug\Saper.pdb
+D:\cpp\Saper\Saper\bin\Debug\Saper.exe
+D:\cpp\Saper\Saper\bin\Debug\Saper.pdb
+D:\cpp\Saper\Saper\obj\Debug\MainWindow.baml
+D:\cpp\Saper\Saper\obj\Debug\Saper.g.resources
+D:\cpp\Saper\Saper\obj\Debug\Saper.Properties.Resources.resources
+D:\cpp\Saper\Saper\obj\Debug\Saper.csproj.GenerateResource.cache
+D:\cpp\Saper\Saper\obj\Debug\Saper.csproj.CoreCompileInputs.cache
+D:\cpp\Saper\Saper\obj\Debug\Ustawienie_rozmiru.g.cs
+D:\cpp\Saper\Saper\obj\Debug\Ustawienie_rozmiru.baml
+F:\studia\Stare\Programowanie Obiektowe\Saper\Saper\obj\Debug\Ustawienie_rozmiru.g.cs
+F:\studia\Stare\Programowanie Obiektowe\Saper\Saper\obj\Debug\Ustawienie_rozmiru.baml
+D:\C#\Saper\Saper\obj\Debug\Saper.csprojAssemblyReference.cache
+D:\C#\Saper\Saper\obj\Debug\MainWindow.g.cs
+D:\C#\Saper\Saper\obj\Debug\Ustawienie_rozmiru.g.cs
+D:\C#\Saper\Saper\obj\Debug\App.g.cs
+D:\C#\Saper\Saper\obj\Debug\Saper_MarkupCompile.cache
+D:\C#\Saper\Saper\obj\Debug\Saper_MarkupCompile.lref
+D:\C#\Saper\Saper\obj\Debug\Saper.exe
+D:\C#\Saper\Saper\obj\Debug\Saper.pdb
+D:\C#\Saper\Saper\bin\Debug\Saper.exe
+D:\C#\Saper\Saper\bin\Debug\Saper.pdb
+D:\C#\Saper\Saper\obj\Debug\MainWindow.baml
+D:\C#\Saper\Saper\obj\Debug\Ustawienie_rozmiru.baml
+D:\C#\Saper\Saper\obj\Debug\Saper.g.resources
+D:\C#\Saper\Saper\obj\Debug\Saper.Properties.Resources.resources
+D:\C#\Saper\Saper\obj\Debug\Saper.csproj.GenerateResource.cache
+D:\C#\Saper\Saper\obj\Debug\Saper.csproj.CoreCompileInputs.cache
